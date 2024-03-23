@@ -10,6 +10,10 @@ O projeto consiste em duas partes principais: o front-end, responsável pela int
 <h2>Front-end (React) </h2>
 O front-end é desenvolvido utilizando a biblioteca React, que permite a criação de interfaces de usuário dinâmicas e responsivas. Ele será responsável por renderizar os componentes visuais da aplicação e interagir com o usuário.
 
+![image](https://github.com/Luis-Paulo-Silva-Reis/TalentSync/assets/48827159/529bcc0d-2cbf-4773-981d-342954c9cab0)
+
+
+
 <h2> Back-end (Minimal API com .NET)</h2>
 O back-end é construído com o framework .NET, utilizando a abordagem Minimal API para criar uma API RESTful simples e eficiente. Ele será responsável por fornecer endpoints para manipular dados no banco de dados MongoDB, além de implementar a lógica de negócios da aplicação.
 
